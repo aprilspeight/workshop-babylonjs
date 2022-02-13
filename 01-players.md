@@ -60,7 +60,6 @@ This page includes links to the pictures for all of the athletes participating i
 |Jonatan Ward     |  https://raw.githubusercontent.com/aprilspeight/workshop-babylonjs/gh-pages/players/jonatan-ward.png       |
 |Jordan Ighofose     |  https://raw.githubusercontent.com/aprilspeight/workshop-babylonjs/gh-pages/players/jordan-ighofose.png       |
 |Josh Wilkes     |   https://raw.githubusercontent.com/aprilspeight/workshop-babylonjs/gh-pages/players/josh-wilkes.png      |
-|     |         |
 |Joshua Flowers     |   https://raw.githubusercontent.com/aprilspeight/workshop-babylonjs/gh-pages/players/joshua-flowers.png      |
 |Juwan Carter    |   https://raw.githubusercontent.com/aprilspeight/workshop-babylonjs/gh-pages/players/juwan-carter.png      |
 |Juwan Taylor     |   https://raw.githubusercontent.com/aprilspeight/workshop-babylonjs/gh-pages/players/juwan-taylor.png      |
