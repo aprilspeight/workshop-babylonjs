@@ -1,0 +1,109 @@
+---
+layout: page
+title: Player Photos
+featured-image:
+---
+
+This page includes links to the pictures for all of the athletes participating in the HBCU Legacy Bowl. The pictures are stored within the workshop's GitHub repository in the [Players](https://github.com/aprilspeight/workshop-babylonjs/tree/gh-pages/players) folder. These photos are to be used as a texture for this workshop.
+
+|Player Name  |Link  |
+|---------|---------|
+|Row1     |         |
+|Row2     |         |
+|Row3     |         |
+|Row4     |         |
+|Row5     |         |
+|Row6     |         |
+|Row7     |         |
+|Row8     |         |
+|Row9     |         |
+|Row10     |         |
+|Row11     |         |
+|Row12     |         |
+|Row13     |         |
+|Row14     |         |
+|Row15     |         |
+|Row16     |         |
+|Row17     |         |
+|Row18     |         |
+|Row19     |         |
+|Row20     |         |
+|Row21     |         |
+|Row22     |         |
+|Row23     |         |
+|Row24     |         |
+|Row25     |         |
+|Row26     |         |
+|Row27     |         |
+|Row28     |         |
+|Row29     |         |
+|Row30     |         |
+|Row31     |         |
+|Row32     |         |
+|Row33     |         |
+|Row34     |         |
+|Row35     |         |
+|Row36     |         |
+|Row37     |         |
+|Row38     |         |
+|Row39     |         |
+|Row40     |         |
+|Row41     |         |
+|Row42     |         |
+|Row43     |         |
+|Row44     |         |
+|Row45     |         |
+|Row46     |         |
+|Row47     |         |
+|Row48     |         |
+|Row49     |         |
+|Row50     |         |
+|Row51     |         |
+|Row52     |         |
+|Row3     |         |
+|Row4     |         |
+|Row5     |         |
+|Row6     |         |
+|Row7     |         |
+|Row8     |         |
+|Row9     |         |
+|Row10     |         |
+|Row11     |         |
+|Row12     |         |
+|Row13     |         |
+|Row14     |         |
+|Row15     |         |
+|Row16     |         |
+|Row17     |         |
+|Row18     |         |
+|Row19     |         |
+|Row20     |         |
+|Row21     |         |
+|Row22     |         |
+|Row23     |         |
+|Row24     |         |
+|Row25     |         |
+|Row26     |         |
+|Row27     |         |
+|Row28     |         |
+|Row29     |         |
+|Row30     |         |
+|Row31     |         |
+|Row32     |         |
+|Row33     |         |
+|Row34     |         |
+|Row35     |         |
+|Row36     |         |
+|Row37     |         |
+|Row38     |         |
+|Row39     |         |
+|Row40     |         |
+|Row41     |         |
+|Row42     |         |
+|Row43     |         |
+|Row44     |         |
+|Row45     |         |
+|Row46     |         |
+|Row47     |         |
+|Row48     |         |
+|Emmitt Smith     |         |
