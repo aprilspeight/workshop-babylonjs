@@ -17,6 +17,8 @@ You'll create your own personal exhibit for the Hall of Fame using Babylon.js an
 
 A complete version of the Hall of Fame is available at the following Babylon.js playground: REPLACE THIS</p>
 
+A complete version of an individual exhibit is available at the following Babylon.js playground: <a href="https://playground.babylonjs.com/#RWDKF1">https://playground.babylonjs.com/#RWDKF1</a>
+
 <h2>Prerequisites</h2>
 <ul>
 <li>Laptop (MacOS or Windows)</li>

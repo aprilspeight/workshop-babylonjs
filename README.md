@@ -10,6 +10,8 @@ You'll create your own personal exhibit for the Hall of Fame using Babylon.js an
 
 A complete version of the Hall of Fame is available at the following Babylon.js playground: REPLACE THIS.
 
+A complete version of an individual exhibit is available at the following Babylon.js playground: [https://playground.babylonjs.com/#RWDKF1](https://playground.babylonjs.com/#RWDKF1)
+
 ## Access the Workshop
 
 You can access the workshop by visiting: [aprilspeight.github.io/workshop-babylonjs](https://aprilspeight.github.io/workshop-babylonjs/)
