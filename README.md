@@ -19,14 +19,12 @@ If you have any issues completing the steps in this workshop, submit an issue wi
 
 ## Resources
 
-Learn more about Measure in MR. (https://docs.microsoft.com/powerapps/maker/canvas-apps/mixed-reality-component-measure-distance)
+Learn more about [Babylon.js](https://doc.babylonjs.com/).
 
-Learn more about View in 3D. (https://docs.microsoft.com/powerapps/maker/canvas-apps/mixed-reality-component-view-3d)
+Try our Babylon.js [Microsoft Learn modules](https://docs.microsoft.com/learn/browse/?terms=babylon.js).
 
-Learn more about View in MR. (https://docs.microsoft.com/powerapps/maker/canvas-apps/mixed-reality-component-view-mr)
+Browse the [Babylon.js Asset Libraries](https://doc.babylonjs.com/toolsAndResources/assetLibraries).
 
-Learn more about the Connectors for Canvas Apps. (https://docs.microsoft.com/powerapps/maker/canvas-apps/connections-list)
+Get open-source [3D models](https://aka.ms/models).
 
-Try the Build a 3D Mobile App with Power Apps in Mixed Reality Learn Module. (https://aka.ms/learn-mrpowerapps)
-
-Get open-source 3D models. (https://aka.ms/models)
+Learn more about [Mixamo](https://www.mixamo.com/).
