@@ -5,25 +5,27 @@ title: Home
 
 <header>
 <h1>Scenario</h1>
-<p>Babylon.js workshop for the HBCU Legacy Bowl:
+<p>The HBCU Legacy Bowl, presented by the <a href="https://www.blackcollegefootballhof.org/">Black College Football Hall of Fame</a>, is a postseason all-star game showcasing the best NFL draft-eligible football players from Historically Black Colleges and Universities. For this workshop, we'll honor all athletes in a virtual Hall of Fame created for the web & virtual reality (VR).
+
+You'll create your own personal exhibit for the Hall of Fame using Babylon.js and WebXR. Your exhibit will include the following:
 
 <ul>
-<li>Measure their space using an in-app MR ruler</li>
-<li>View and filter a catalog of products</li>
-<li>View products in their space</li>
-<li>Take a photo of products in their space</li>
-<li>View all photos taken within the app</li>
+<li>Exhibit objects</li>
+<li>A photo of yourself</li>
+<li>An animated character</li>
 </ul>
 
-You've decided that Power Apps would be the ideal platform for creating the app. Your task is to create an app for Contoso Furnishings using Power Apps.</p>
+A complete version of the Hall of Fame is available at the following Babylon.js playground: REPLACE THIS</p>
 
 <h2>Prerequisites</h2>
-<p>Using the Power Apps platform for this workshop requires that you have access to a sandbox environment. You can get a sandbox environment as part of the M365 Developer Program. Sign-up is free but does require a phone number for authentication to ensure that your account is protected.
-
-Follow the <a href="https://aprilspeight.github.io/workshop-mr-powerapps/01-prerequisites.html">Prerequisites</a> instructions to setup your sandbox environment.</p>
+<ul>
+<li>Laptop (MacOS or Windows)</li>
+<li>Internet Access</li>
+<li>VR Headset (optional - for WebXR experience)</li>
+</ul>
 
 <h2>Need help?</h2>
-<p>If you have any issues completing the steps in this workshop, submit an issue within the <a href="https://github.com/aprilspeight/workshop-mr-powerapps/issues">GitHub Issues</a> for this repository.</p>
+<p>If you have any issues completing the steps in this workshop, submit an issue within the <a href="https://github.com/aprilspeight/workshop-babylonjs/issues">GitHub Issues</a> for this repository.</p>
 
 </header>
 
