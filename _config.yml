@@ -13,7 +13,7 @@ baseurl: "/workshop-babylonjs" # the subpath of your site, e.g. /blog
 url: "https://aprilspeight.github.io" # the base hostname & protocol for your site
 
 # Logo settings
-logo-image-url: images/armchair.png
+logo-image-url: images/american-football.png
 font-awesome-icon-logo:
 
 # Social settings
