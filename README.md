@@ -8,9 +8,14 @@ You'll create your own personal exhibit for the Hall of Fame using Babylon.js an
 - A photo of yourself
 - An animated character
 
-A complete version of the Hall of Fame is available at the following Babylon.js playground: REPLACE THIS.
+### Completed Versions
 
-A complete version of an individual exhibit is available at the following Babylon.js playground: [https://playground.babylonjs.com/#RWDKF1](https://playground.babylonjs.com/#RWDKF1)
+**Web**: [https://playground.babylonjs.com/#B2WPHN](https://playground.babylonjs.com/#B2WPHN)
+
+**VR**: [https://playground.babylonjs.com/#089QPX](https://playground.babylonjs.com/#089QPX)
+
+**Web - Individual Exhibit**: [https://playground.babylonjs.com/#RWDKF1](https://playground.babylonjs.com/#RWDKF1)
+
 
 ## Access the Workshop
 
