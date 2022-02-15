@@ -16,7 +16,7 @@ You'll create your own personal exhibit for the Hall of Fame using Babylon.js an
 </ul>
 
   
-<h2>Completed Versions</h2> 
+  <b>Completed Versions</b>
   
 <ul>
 <li>Web: <a href="https://playground.babylonjs.com/#B2WPHN">https://playground.babylonjs.com/#B2WPHN</a></li>
